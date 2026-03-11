@@ -1,2 +1,3 @@
-# projetojogoforcaalura
-Jogo de forca em C
+# C projects 
+- Forca
+- Packman
